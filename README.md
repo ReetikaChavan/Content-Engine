@@ -54,5 +54,5 @@ The system supports any PDF documents. Users can process their own documents for
 1. **Clone the Repository**  
 
    ```bash  
-   git clone https://github.com/your_username/Content-Engine.git  
+   git clone https://github.com/ReetikaChavan/Content-Engine.git  
    cd Content-Engine  
