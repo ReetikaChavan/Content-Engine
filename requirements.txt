@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+numpy
+faiss-cpu  # or any other vector store library you choose
+transformers  # for embedding model
